@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://status.im/our_team/open_positions.html</loc>
+    
+    <lastmod>2020-10-28T13:37:42.979Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/work/index.html</loc>
     
     <lastmod>2020-10-27T03:17:30.231Z</lastmod>
@@ -311,13 +318,6 @@
   
   <url>
     <loc>https://status.im/our_team/index.html</loc>
-    
-    <lastmod>2020-10-27T03:17:30.215Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/our_team/open_positions.html</loc>
     
     <lastmod>2020-10-27T03:17:30.215Z</lastmod>
     
